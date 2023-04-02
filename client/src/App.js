@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div>
-      React hello React!
+      Frontend toje Gotov!!
     </div>
   );
 }
